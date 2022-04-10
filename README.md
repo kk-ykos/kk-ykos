@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kirt
-- 👀 I’m passionate about Business Analytics, Business Intelligence Analytics
+- 👀 I’m passionate about Business Analytics, Business Intelligence Analytics and Ofcourse Data
 - 🌱 I'm continuing to find ... Data Driven Business Solution
 - 💞️ I’m looking to collaborate on Analytics, Visualization Project
 - 📫 How to reach me ...kk.ykos12@gmail.com
