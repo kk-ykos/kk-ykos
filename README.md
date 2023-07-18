@@ -1,4 +1,4 @@
-- 👋 Hello! I’m Kirtikumar a dedicated data professional 
+- 👋 Hello! I’m Kirtikumar; a dedicated data professional 
 - 👀 With a passion for solving complex business problems and driving success through data and analytics and make a difference
 - 🌱 I'm continuing to find ... Data Driven Business Solution, optmizing the way we do things
 - 💞️ I’m looking to collaborate on Analytics, BI, Visualization Projects
